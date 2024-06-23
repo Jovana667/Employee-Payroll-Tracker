@@ -3,8 +3,6 @@
 ## Description
 In this take I was challenged to enhances a starter code for a payroll management system, adding functionality to track employee data and assist with company budgeting.
 
-## Project Overview
-
 ## Features
 - Users can input employee information (first name, last name, and salary) via a prompt triggered when the 'Add Employee' button has been clicked.
 - The Employee data will be displayed on the webpage and sorted alphabetically by last name.
