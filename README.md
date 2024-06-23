@@ -9,6 +9,7 @@ In this take I was challenged to enhances a starter code for a payroll managemen
 - Users can input employee information (first name, last name, and salary) via a prompt triggered when the 'Add Employee' button has been clicked.
 - The Employee data will be displayed on the webpage and sorted alphabetically by last name.
 - The console will display computed and aggregated data, including:
+  - Employee data and array numbers displayed in a HTML table
   - Average employee salary
   - A randomly selected employee as the "drawing winner"
 
